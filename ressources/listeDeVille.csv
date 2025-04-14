@@ -1,0 +1,1281 @@
+nom,id,nom
+Westmount,3600197561,westmount
+Dorval,3600197562,dorval
+Mont-Royal,3600197567,montroyal
+Hampstead,3600197569,hampstead
+Pointe-Claire,3600197576,pointeclaire
+Kirkland,3600197577,kirkland
+Beaconsfield,3600197578,beaconsfield
+Baie-D'Urfé,3600197579,baiedurfe
+Sainte-Anne-de-Bellevue,3600197580,sainteannedebellevue
+Senneville,3600197583,senneville
+Dollard-des-Ormeaux,3600197601,dollarddesormeaux
+Laval,3601438336,laval
+Nominingue,3601490833,nominingue
+Notre-Dame-du-Laus,3601490834,notredamedulaus
+Lac-Bazinet,3601490835,lacbazinet
+Lac-Ernest,3601490836,lacernest
+Mont-Laurier,3601490837,montlaurier
+Lac-Douaire,3601490838,lacdouaire
+Rivière-Rouge,3601490839,riviererouge
+Lac-Marguerite,3601490840,lacmarguerite
+Lac-de-la-Maison-de-Pierre,3601490841,lacdelamaisondepierre
+Notre-Dame-de-Pontmain,3601490843,notredamedepontmain
+Lac-de-la-Pomme,3601490844,lacdelapomme
+Ferme-Neuve,3601490845,fermeneuve
+Baie-des-Chaloupes,3601490846,baiedeschaloupes
+Lac-Oscar,3601490847,lacoscar
+Lac-De La Bidière,3601490848,lacdelabidiere
+La Macaza,3601490849,lamacaza
+Lac-Akonapwehikan,3601490858,lacakonapwehikan
+Noyan,3601600477,noyan
+Saint-Armand,3601600478,saintarmand
+Saint-Blaise-sur-Richelieu,3601600479,saintblaisesurrichelieu
+Venise-en-Québec,3601600480,veniseenquebec
+Henryville,3601600481,henryville
+Saint-Paul-de-l'Île-aux-Noix,3601600482,saintpauldelileauxnoix
+Lacolle,3601600483,lacolle
+Saint-Jean-sur-Richelieu,3601600484,saintjeansurrichelieu
+Sainte-Anne-de-Sabrevois,3601600485,sainteannedesabrevois
+Clarenceville,3601600486,clarenceville
+Montréal,3601634158,montreal
+Montréal-Est,3601634159,montrealest
+Québec,3602319206,quebec
+Deux-Montagnes,3602798489,deuxmontagnes
+Brossard,3602812764,brossard
+L'Île-Dorval,3603421685,liledorval
+Gatineau,3605356213,gatineau
+Côte-Saint-Luc,3605361655,cotesaintluc
+Sherbrooke,3605915931,sherbrooke
+Oka,3606451177,oka
+Paroisse Sainte-Gertrude,3606854299,paroissesaintegertrude
+Longueuil,3606948543,longueuil
+Boucherville,3606948557,boucherville
+Montréal-Ouest,3607022381,montrealouest
+Gracefield,3607041000,gracefield
+Sainte-Thérèse-de-la-Gatineau,3607041001,saintetheresedelagatineau
+Blue Sea,3607041002,bluesea
+Bouchette,3607041003,bouchette
+Messines,3607041004,messines
+Cayamant,3607041005,cayamant
+Cantley,3607041122,cantley
+Val-des-Monts,3607041289,valdesmonts
+Pontiac,3607041343,pontiac
+Bristol,3607041406,bristol
+Clarendon,3607041407,clarendon
+Portage-du-Fort,3607041555,portagedufort
+Campbell's Bay,3607041641,campbellsbay
+Bryson,3607041642,bryson
+Litchfield,3607041643,litchfield
+L'Île-du-Grand-Calumet,3607041732,liledugrandcalumet
+Thorne,3607041801,thorne
+Saint-Bruno-de-Montarville,3607042081,saintbrunodemontarville
+Mansfield-et-Pontefract,3607045161,mansfieldetpontefract
+Otter Lake,3607045223,otterlake
+L'Isle-aux-Allumettes,3607045475,lisleauxallumettes
+Chichester,3607045476,chichester
+Waltham,3607045477,waltham
+Sheenboro,3607045546,sheenboro
+La Pêche,3607045685,lapeche
+Chelsea,3607045744,chelsea
+Denholm,3607045906,denholm
+Low,3607045907,low
+Kazabazua,3607045908,kazabazua
+Lac-Sainte-Marie,3607045909,lacsaintemarie
+Alleyn-et-Cawood,3607045910,alleynetcawood
+Tioweró:ton / Doncaster,3607064822,doncaster
+Kahnawà:ke,3607064823,kahnawake
+Rapides-des-Joachims,3607351757,rapidesdesjoachims
+Montcerf-Lytton,3607357977,montcerflytton
+Egan-Sud,3607357978,egansud
+Maniwaki,3607357979,maniwaki
+Bois-Franc,3607358185,boisfranc
+Grand-Remous,3607358186,grandremous
+Aumond,3607358187,aumond
+Déléage,3607358188,deleage
+Senneterre (ville),3607359770,senneterre
+Val-d'Or,3607359771,valdor
+Obedjiwan,3607359864,obedjiwan
+Wemotaci,3607359865,wemotaci
+La Tuque,3607359866,latuque
+Belcourt,3607359892,belcourt
+Champneuf,3607359893,champneuf
+La Corne,3607360008,lacorne
+Landrienne,3607360009,landrienne
+Barraute,3607360010,barraute
+Malartic,3607360108,malartic
+Rivière-Héva,3607360109,riviereheva
+La Motte,3607360110,lamotte
+Preissac,3607360111,preissac
+Rouyn-Noranda,3607360112,rouynnoranda
+Taschereau,3607360198,taschereau
+Authier,3607360199,authier
+Sainte-Germaine-Boulé,3607360200,saintegermaineboule
+Poularies,3607360201,poularies
+Palmarolle,3607360202,palmarolle
+Gallichan,3607360203,gallichan
+Roquemaure,3607360204,roquemaure
+Rapide-Danseur,3607360205,rapidedanseur
+Duparquet,3607360206,duparquet
+Saint-Marc-de-Figuery,3607360325,saintmarcdefiguery
+Saint-Mathieu-d'Harricana,3607360326,saintmathieudharricana
+Sainte-Gertrude-Manneville,3607360327,saintegertrudemanneville
+Trécesson,3607360328,trecesson
+Launay,3607360329,launay
+Berry,3607360330,berry
+Authier-Nord,3607360331,authiernord
+Saint-Dominique-du-Rosaire,3607360337,saintdominiquedurosaire
+Sainte-Anne-du-Lac,3607360361,sainteannedulac
+Lac-Saint-Paul,3607360492,lacsaintpaul
+Mont-Saint-Michel,3607360493,montsaintmichel
+Lac-Saguay,3607360511,lacsaguay
+Lac-des-Écorces,3607360512,lacdesecorces
+Chute-Saint-Philippe,3607360513,chutesaintphilippe
+L'Ascension,3607361694,lascension
+Kiamika,3607361739,kiamika
+Duhamel,3607361793,duhamel
+Bowman,3607361798,bowman
+Val-des-Bois,3607361939,valdesbois
+Lac-Simon,3607362049,lacsimon
+Montpellier,3607362050,montpellier
+Lac-du-Cerf,3607362266,lacducerf
+Saint-Aimé-du-Lac-des-Îles,3607362282,saintaimedulacdesiles
+Lac-Tremblant-Nord,3607362392,lactremblantnord
+La Minerve,3607362393,laminerve
+Labelle,3607362394,labelle
+Mont-Tremblant,3607362395,monttremblant
+Brébeuf,3607362396,brebeuf
+La Conception,3607362397,laconception
+Amherst,3607362398,amherst
+Lac-des-Plages,3607362399,lacdesplages
+Lac-Supérieur,3607362415,lacsuperieur
+Wôlinak,3607403823,wolinak
+East Hawkesbury,3607426623,easthawkesbury
+Wolastoqiyik Wahsipekuk,3607516050,wolastoqiyikwahsipekuk
+Lac-Simon,3607526846,lacsimon
+Ripon,3607547231,ripon
+Mulgrave-et-Derry,3607547232,mulgraveetderry
+Mayo,3607547233,mayo
+L'Ange-Gardien,3607547234,langegardien
+Saint-Sixte,3607549954,saintsixte
+Lochaber,3607549955,lochaber
+Thurso,3607549956,thurso
+Lochaber-Partie-Ouest,3607549957,lochaberpartieouest
+Notre-Dame-de-la-Salette,3607570624,notredamedelasalette
+Coucoucache,3607570636,coucoucache
+Boileau,3607572122,boileau
+Fassett,3607572123,fassett
+Notre-Dame-de-Bonsecours,3607572124,notredamedebonsecours
+Montebello,3607572125,montebello
+Saint-Émile-de-Suffolk,3607572126,saintemiledesuffolk
+Namur,3607572127,namur
+Notre-Dame-de-la-Paix,3607572128,notredamedelapaix
+Chénéville,3607572129,cheneville
+Saint-André-Avellin,3607572130,saintandreavellin
+Papineauville,3607572131,papineauville
+Plaisance,3607572132,plaisance
+Unorganized West Timiskaming,3607588066,unorganizedwesttimiskaming
+McGarry Township,3607588073,mcgarrytownship
+Kanata,3607657290,kanata
+Lac-Duparquet,3607678914,lacduparquet
+Val-Morin,3607692496,valmorin
+Val-David,3607692497,valdavid
+Sainte-Lucie-des-Laurentides,3607692498,sainteluciedeslaurentides
+Lantier,3607692499,lantier
+Val-des-Lacs,3607692500,valdeslacs
+Huberdeau,3607692501,huberdeau
+Arundel,3607692502,arundel
+Montcalm,3607692503,montcalm
+Mont-Blanc,3607692504,montblanc
+Ivry-sur-le-Lac,3607692505,ivrysurlelac
+Sainte-Agathe-des-Monts,3607692507,sainteagathedesmonts
+Barkmere,3607692508,barkmere
+Notre-Dame-de-l'Île-Perrot,3607696234,notredamedelileperrot
+L'Île-Perrot,3607696235,lileperrot
+Pincourt,3607696236,pincourt
+Terrasse-Vaudreuil,3607696237,terrassevaudreuil
+Pointe-des-Cascades,3607696238,pointedescascades
+Vaudreuil-Dorion,3607696239,vaudreuildorion
+Vaudreuil-sur-le-Lac,3607696240,vaudreuilsurlelac
+L'Île-Cadieux,3607696241,lilecadieux
+Les Cèdres,3607696242,lescedres
+Hudson,3607696243,hudson
+Saint-Clet,3607696244,saintclet
+Saint-Lazare,3607696245,saintlazare
+Coteau-du-Lac,3607696246,coteaudulac
+Saint-Zotique,3607696247,saintzotique
+Les Coteaux,3607696248,lescoteaux
+Rivière-Beaudette,3607696249,rivierebeaudette
+Saint-Télesphore,3607696250,sainttelesphore
+Saint-Polycarpe,3607696251,saintpolycarpe
+Sainte-Justine-de-Newton,3607696252,saintejustinedenewton
+Très-Saint-Rédempteur,3607696253,tressaintredempteur
+Sainte-Marthe,3607696254,saintemarthe
+Rigaud,3607696255,rigaud
+Pointe-Fortune,3607696256,pointefortune
+Mille-Isles,3607697269,milleisles
+Gore,3607697270,gore
+Lachute,3607697271,lachute
+Saint-André-d'Argenteuil,3607697272,saintandredargenteuil
+Wentworth,3607697273,wentworth
+Brownsburg-Chatham,3607697274,brownsburgchatham
+Harrington,3607697275,harrington
+Grenville-sur-la-Rouge,3607697276,grenvillesurlarouge
+Grenville,3607697277,grenville
+Piedmont,3607697462,piedmont
+Estérel,3607697463,esterel
+Sainte-Marguerite-du-Lac-Masson,3607697464,saintemargueritedulacmasson
+Sainte-Adèle,3607697465,sainteadele
+Sainte-Anne-des-Lacs,3607697466,sainteannedeslacs
+Saint-Sauveur,3607697467,saintsauveur
+Morin-Heights,3607697468,morinheights
+Saint-Adolphe-d'Howard,3607697469,saintadolphedhoward
+Wentworth-Nord,3607697470,wentworthnord
+Lac-des-Seize-Îles,3607697471,lacdesseizeiles
+Kebaowek,3607698598,kebaowek
+Saint-Hippolyte,3607698649,sainthippolyte
+Sainte-Sophie,3607698650,saintesophie
+Prévost,3607698651,prevost
+Saint-Jérôme,3607698652,saintjerome
+Saint-Colomban,3607698653,saintcolomban
+Timiskaming,3607698707,timiskaming
+Pikogan,3607698791,pikogan
+Manawan,3607698893,manawan
+Mashteuiatsh,3607699130,mashteuiatsh
+Saint-Eustache,3607699988,sainteustache
+Sainte-Marthe-sur-le-Lac,3607699989,saintemarthesurlelac
+Saint-Joseph-du-Lac,3607699990,saintjosephdulac
+Pointe-Calumet,3607699991,pointecalumet
+Ka’neshatà:ke / Kanesatake,3607699992,kanesatake
+Saint-Placide,3607699993,saintplacide
+Mirabel,3607699994,mirabel
+Odanak,3607700931,odanak
+Wendake,3607701011,wendake
+Sainte-Anne-des-Plaines,3607703988,sainteannedesplaines
+Bois-des-Filion,3607703989,boisdesfilion
+Lorraine,3607703990,lorraine
+Blainville,3607703991,blainville
+Rosemère,3607703992,rosemere
+Sainte-Thérèse,3607703993,saintetherese
+Boisbriand,3607703994,boisbriand
+Sainte-Marie-Salomé,3607704058,saintemariesalome
+Saint-Liguori,3607704059,saintliguori
+Saint-Jacques,3607704060,saintjacques
+Saint-Alexis,3607704061,saintalexis
+Sainte-Julienne,3607704062,saintejulienne
+Saint-Calixte,3607704063,saintcalixte
+Saint-Esprit,3607704064,saintesprit
+Saint-Roch-de-l'Achigan,3607704065,saintrochdelachigan
+Saint-Roch-Ouest,3607704066,saintrochouest
+Saint-Lin–Laurentides,3607704067,saintlinlaurentides
+Mascouche,3607704069,mascouche
+Terrebonne,3607704070,terrebonne
+Saint-Sulpice,3607706376,saintsulpice
+L'Assomption,3607706379,lassomption
+Repentigny,3607706380,repentigny
+Charlemagne,3607706381,charlemagne
+Sainte-Mélanie,3607706446,saintemelanie
+Notre-Dame-de-Lourdes,3607706447,notredamedelourdes
+Saint-Thomas,3607706448,saintthomas
+Notre-Dame-des-Prairies,3607706449,notredamedesprairies
+Saint-Ambroise-de-Kildare,3607706450,saintambroisedekildare
+Saint-Charles-Borromée,3607706451,saintcharlesborromee
+Joliette,3607706452,joliette
+Saint-Pierre,3607706453,saintpierre
+Crabtree,3607706454,crabtree
+Saint-Paul,3607706455,saintpaul
+Saint-Michel-des-Saints,3607707045,saintmicheldessaints
+Saint-Zénon,3607707046,saintzenon
+Saint-Damien,3607707047,saintdamien
+Sainte-Émélie-de-l'Énergie,3607707048,sainteemeliedelenergie
+Saint-Jean-de-Matha,3607707049,saintjeandematha
+Saint-Félix-de-Valois,3607707050,saintfelixdevalois
+Saint-Côme,3607707051,saintcome
+Sainte-Béatrix,3607707052,saintebeatrix
+Saint-Alphonse-Rodriguez,3607707053,saintalphonserodriguez
+Sainte-Marcelline-de-Kildare,3607707054,saintemarcellinedekildare
+Saint-Donat,3607707055,saintdonat
+Chertsey,3607707056,chertsey
+Notre-Dame-de-la-Merci,3607707057,notredamedelamerci
+Entrelacs,3607707058,entrelacs
+Rawdon,3607707059,rawdon
+Mandeville,3607710956,mandeville
+Saint-Gabriel-de-Brandon,3607710957,saintgabrieldebrandon
+Saint-Gabriel,3607710958,saintgabriel
+Saint-Didace,3607710959,saintdidace
+Saint-Barthélemy,3607710960,saintbarthelemy
+Saint-Cuthbert,3607710961,saintcuthbert
+Saint-Ignace-de-Loyola,3607710962,saintignacedeloyola
+La Visitation-de-l'Île-Dupas,3607710963,lavisitationdeliledupas
+Saint-Cléophas-de-Brandon,3607710964,saintcleophasdebrandon
+Saint-Norbert,3607710965,saintnorbert
+Sainte-Élisabeth,3607710966,sainteelisabeth
+Sainte-Geneviève-de-Berthier,3607710967,saintegenevievedeberthier
+Berthierville,3607710968,berthierville
+Lanoraie,3607710969,lanoraie
+Lavaltrie,3607710970,lavaltrie
+Saint-Alexis-des-Monts,3607711418,saintalexisdesmonts
+Saint-Mathieu-du-Parc,3607711419,saintmathieuduparc
+Saint-Boniface,3607711420,saintboniface
+Saint-Étienne-des-Grès,3607711421,saintetiennedesgres
+Saint-Élie-de-Caxton,3607711422,sainteliedecaxton
+Charette,3607711423,charette
+Saint-Barnabé,3607711424,saintbarnabe
+Saint-Paulin,3607711425,saintpaulin
+Saint-Sévère,3607711426,saintsevere
+Yamachiche,3607711428,yamachiche
+Sainte-Angèle-de-Prémont,3607711431,sainteangeledepremont
+Saint-Léon-le-Grand,3607711432,saintleonlegrand
+Sainte-Ursule,3607711433,sainteursule
+Louiseville,3607711434,louiseville
+Saint-Édouard-de-Maskinongé,3607711435,saintedouarddemaskinonge
+Saint-Justin,3607711436,saintjustin
+Maskinongé (municipalité),3607711437,maskinonge
+Saint-Stanislas,3607711544,saintstanislas
+Saint-Narcisse,3607711545,saintnarcisse
+Sainte-Geneviève-de-Batiscan,3607711546,saintegenevievedebatiscan
+Batiscan,3607711547,batiscan
+Saint-Luc-de-Vincennes,3607711548,saintlucdevincennes
+Champlain,3607711549,champlain
+Saint-Maurice,3607711550,saintmaurice
+Notre-Dame-du-Mont-Carmel,3607711551,notredamedumontcarmel
+Shawinigan,3607711552,shawinigan
+Trois-Rivières,3607711553,troisrivieres
+Saint-Tite,3607715906,sainttite
+Saint-Augustin-de-Desmaures,3607716091,saintaugustindedesmaures
+L'Ancienne-Lorette,3607716093,lanciennelorette
+Stoneham-et-Tewkesbury,3607716425,stonehamettewkesbury
+Sainte-Brigitte-de-Laval,3607716426,saintebrigittedelaval
+Lac-Beauport,3607716427,lacbeauport
+Lac-Delage,3607716428,lacdelage
+Saint-Gabriel-de-Valcartier,3607716429,saintgabrieldevalcartier
+Shannon,3607716430,shannon
+Lac-Saint-Joseph,3607716431,lacsaintjoseph
+Fossambault-sur-le-Lac,3607716432,fossambaultsurlelac
+Sainte-Catherine-de-la-Jacques-Cartier,3607716433,saintecatherinedelajacquescartier
+Lac-Édouard,3607716488,lacedouard
+La Bostonnais,3607716489,labostonnais
+Saint-Tite-des-Caps,3607717046,sainttitedescaps
+Saint-Louis-de-Gonzague-du-Cap-Tourmente,3607717048,saintlouisdegonzagueducaptourmente
+Saint-Ferréol-les-Neiges,3607717049,saintferreollesneiges
+Beaupré,3607717050,beaupre
+Sainte-Anne-de-Beaupré,3607717051,sainteannedebeaupre
+Château-Richer,3607717052,chateauricher
+L'Ange-Gardien,3607717053,langegardien
+Boischatel,3607717054,boischatel
+Baie-Sainte-Catherine,3607717110,baiesaintecatherine
+Saint-Siméon,3607717111,saintsimeon
+Saint-Irénée,3607717112,saintirenee
+Clermont,3607717113,clermont
+La Malbaie,3607717114,lamalbaie
+Saint-Aimé-des-Lacs,3607717115,saintaimedeslacs
+Notre-Dame-des-Monts,3607717116,notredamedesmonts
+Saint-Hilarion,3607717118,sainthilarion
+Les Éboulements,3607717119,leseboulements
+Saint-Urbain,3607717120,sainturbain
+L'Isle-aux-Coudres,3607717121,lisleauxcoudres
+Baie-Saint-Paul,3607717122,baiesaintpaul
+Petite-Rivière-Saint-François,3607717123,petiterivieresaintfrancois
+Baie-Trinité,3607719053,baietrinite
+Godbout,3607719054,godbout
+Franquelin,3607719055,franquelin
+Baie-Comeau,3607719056,baiecomeau
+Pointe-Lebel,3607719057,pointelebel
+Pointe-aux-Outardes,3607719058,pointeauxoutardes
+Chute-aux-Outardes,3607719059,chuteauxoutardes
+Ragueneau,3607719060,ragueneau
+Pessamit Innuat / Innus de Pessamit,3607719061,innusdepessamit
+Colombier,3607719063,colombier
+Forestville,3607719064,forestville
+Portneuf-sur-Mer,3607719065,portneufsurmer
+Longue-Rive,3607719066,longuerive
+Les Escoumins,3607719067,lesescoumins
+Les Bergeronnes,3607719068,lesbergeronnes
+Sacré-Coeur,3607719069,sacrecoeur
+Tadoussac,3607719070,tadoussac
+ᑲᐛᐛᒋᑲᒪᒡ Kawawachikamach,3607722325,kawawachikamach
+Lac-John,3607722326,lacjohn
+Matimekosh,3607722327,matimekosh
+Schefferville,3607722328,schefferville
+Fermont,3607722329,fermont
+Sept-Îles,3607722332,septiles
+Maliotenam,3607722333,maliotenam
+Uashat,3607722334,uashat
+Port-Cartier,3607722335,portcartier
+L'Île-d'Anticosti,3607734508,liledanticosti
+Nutashkuan,3607734509,nutashkuan
+Natashquan,3607734510,natashquan
+Aguanish,3607734511,aguanish
+Baie-Johan-Beetz,3607734512,baiejohanbeetz
+Havre-Saint-Pierre,3607734513,havresaintpierre
+Ekuanitshit - Mingan,3607734514,ekuanitshitmingan
+Longue-Pointe-de-Mingan,3607734515,longuepointedemingan
+Rivière-Saint-Jean,3607734516,rivieresaintjean
+Rivière-au-Tonnerre,3607734517,riviereautonnerre
+Blanc-Sablon,3607734572,blancsablon
+Bonne-Espérance,3607734573,bonneesperance
+Saint-Augustin,3607734575,saintaugustin
+La Romaine,3607734576,laromaine
+Gros-Mécatina,3607734577,grosmecatina
+Côte-Nord-du-Golfe-du-Saint-Laurent,3607734578,cotenorddugolfedusaintlaurent
+Howick,3607743220,howick
+Très-Saint-Sacrement,3607743221,tressaintsacrement
+Saint-Chrysostome,3607743222,saintchrysostome
+Havelock,3607743223,havelock
+Franklin,3607743224,franklin
+Ormstown,3607743225,ormstown
+Hinchinbrooke,3607743226,hinchinbrooke
+Huntingdon,3607743227,huntingdon
+Elgin,3607743228,elgin
+Sainte-Barbe,3607743229,saintebarbe
+Godmanchester,3607743230,godmanchester
+Saint-Anicet,3607743231,saintanicet
+Dundee,3607743232,dundee
+Beauharnois,3607765238,beauharnois
+Saint-Urbain-Premier,3607765239,sainturbainpremier
+Sainte-Martine,3607765240,saintemartine
+Saint-Étienne-de-Beauharnois,3607765241,saintetiennedebeauharnois
+Saint-Louis-de-Gonzague,3607765242,saintlouisdegonzague
+Salaberry-de-Valleyfield,3607765243,salaberrydevalleyfield
+Saint-Stanislas-de-Kostka,3607765244,saintstanislasdekostka
+Napierville,3607785072,napierville
+Saint-Cyprien-de-Napierville,3607785073,saintcypriendenapierville
+Saint-Jacques-le-Mineur,3607785074,saintjacqueslemineur
+Saint-Édouard,3607785075,saintedouard
+Saint-Patrice-de-Sherrington,3607785076,saintpatricedesherrington
+Saint-Bernard-de-Lacolle,3607785077,saintbernarddelacolle
+Saint-Michel,3607785078,saintmichel
+Saint-Rémi,3607785079,saintremi
+Sainte-Clotilde,3607785080,sainteclotilde
+Hemmingford (village),3607785081,hemmingford
+Hemmingford (canton),3607785082,hemmingford
+Candiac,3607785147,candiac
+Sainte-Catherine,3607785148,saintecatherine
+La Prairie,3607785149,laprairie
+Delson,3607785150,delson
+Saint-Philippe,3607785151,saintphilippe
+Saint-Mathieu,3607785152,saintmathieu
+Saint-Constant,3607785153,saintconstant
+Saint-Isidore,3607785154,saintisidore
+Châteauguay,3607785155,chateauguay
+Mercier,3607785156,mercier
+Léry,3607785157,lery
+Sainte-Brigide-d'Iberville,3607820569,saintebrigidediberville
+Mont-Saint-Grégoire,3607820570,montsaintgregoire
+Saint-Alexandre,3607820571,saintalexandre
+Saint-Sébastien,3607820572,saintsebastien
+Saint-Valentin,3607820573,saintvalentin
+Saint-Jean-Baptiste,3607903219,saintjeanbaptiste
+Mont-Saint-Hilaire,3607903220,montsainthilaire
+Saint-Charles-sur-Richelieu,3607903221,saintcharlessurrichelieu
+Saint-Denis-sur-Richelieu,3607903222,saintdenissurrichelieu
+Saint-Antoine-sur-Richelieu,3607903223,saintantoinesurrichelieu
+Saint-Marc-sur-Richelieu,3607903224,saintmarcsurrichelieu
+Otterburn Park,3607903225,otterburnpark
+McMasterville,3607903226,mcmasterville
+Beloeil,3607903227,beloeil
+Saint-Mathieu-de-Beloeil,3607903228,saintmathieudebeloeil
+Saint-Basile-le-Grand,3607903229,saintbasilelegrand
+Chambly,3607903230,chambly
+Carignan,3607903231,carignan
+Contrecœur,3607903241,contrecoeur
+Calixa-Lavallée,3607903242,calixalavallee
+Verchères,3607903243,vercheres
+Saint-Amable,3607903244,saintamable
+Sainte-Julie,3607903245,saintejulie
+Varennes,3607903246,varennes
+Saint-Paul-d'Abbotsford,3607903249,saintpauldabbotsford
+Ange-Gardien,3607903250,angegardien
+Saint-Césaire,3607903251,saintcesaire
+Rougemont,3607903252,rougemont
+Sainte-Angèle-de-Monnoir,3607903253,sainteangeledemonnoir
+Marieville,3607903254,marieville
+Richelieu,3607903255,richelieu
+Saint-Mathias-sur-Richelieu,3607903256,saintmathiassurrichelieu
+Bolton-Ouest,3607926990,boltonouest
+Abercorn,3607926991,abercorn
+Sutton,3607926992,sutton
+Brome,3607926993,brome
+Lac-Brome,3607926994,lacbrome
+Bromont,3607926995,bromont
+Brigham,3607926996,brigham
+East Farnham,3607926997,eastfarnham
+Cowansville,3607926998,cowansville
+Dunham,3607926999,dunham
+Saint-Ignace-de-Stanbridge,3607927000,saintignacedestanbridge
+Frelighsburg,3607927001,frelighsburg
+Stanbridge East,3607927002,stanbridgeeast
+Farnham,3607927003,farnham
+Sainte-Sabine,3607927004,saintesabine
+Notre-Dame-de-Stanbridge,3607927005,notredamedestanbridge
+Bedford (Ville),3607927006,bedford
+Bedford (Canton),3607927007,bedford
+Stanbridge Station,3607927008,stanbridgestation
+Pike River,3607927009,pikeriver
+Saint-Joachim-de-Shefford,3607927016,saintjoachimdeshefford
+Warden,3607927017,warden
+Waterloo,3607927018,waterloo
+Shefford,3607927019,shefford
+Roxton Pond,3607927020,roxtonpond
+Sainte-Cécile-de-Milton,3607927021,saintececiledemilton
+Granby,3607927022,granby
+Saint-Alphonse-de-Granby,3607927023,saintalphonsedegranby
+Sainte-Hélène-de-Bagot,3607927117,saintehelenedebagot
+Saint-Hugues,3607927118,sainthugues
+Saint-Marcel-de-Richelieu,3607927119,saintmarcelderichelieu
+Saint-Louis,3607927120,saintlouis
+Saint-Simon,3607927121,saintsimon
+Saint-Barnabé-Sud,3607927122,saintbarnabesud
+Saint-Jude,3607927123,saintjude
+Saint-Bernard-de-Michaudville,3607927124,saintbernarddemichaudville
+Saint-Liboire,3607927125,saintliboire
+Saint-Valérien-de-Milton,3607927126,saintvaleriendemilton
+Saint-Dominique,3607927127,saintdominique
+Saint-Pie,3607927128,saintpie
+Saint-Hyacinthe,3607927129,sainthyacinthe
+La Présentation,3607927130,lapresentation
+Sainte-Madeleine,3607927131,saintemadeleine
+Sainte-Marie-Madeleine,3607927132,saintemariemadeleine
+Saint-Damase,3607927133,saintdamase
+Saint-David,3607932156,saintdavid
+Saint-Gérard-Majella,3607932157,saintgerardmajella
+Massueville,3607932158,massueville
+Saint-Aimé,3607932159,saintaime
+Yamaska,3607932160,yamaska
+Saint-Robert,3607932161,saintrobert
+Sainte-Anne-de-Sorel,3607932162,sainteannedesorel
+Sainte-Victoire-de-Sorel,3607932163,saintevictoiredesorel
+Sorel-Tracy,3607932164,soreltracy
+Saint-Ours,3607932165,saintours
+Saint-Roch-de-Richelieu,3607932166,saintrochderichelieu
+Drummondville,3607932209,drummondville
+Sainte-Brigitte-des-Saults,3607932210,saintebrigittedessaults
+Notre-Dame-du-Bon-Conseil (village),3607932211,notredamedubonconseil
+Notre-Dame-du-Bon-Conseil (paroisse),3607932212,notredamedubonconseil
+Saint-Cyrille-de-Wendover,3607932213,saintcyrilledewendover
+Saint-Lucien,3607932214,saintlucien
+Saint-Félix-de-Kingsey,3607932215,saintfelixdekingsey
+L'Avenir,3607932216,lavenir
+Durham-Sud,3607932217,durhamsud
+Lefebvre,3607932218,lefebvre
+Wickham,3607932219,wickham
+Saint-Germain-de-Grantham,3607932220,saintgermaindegrantham
+Saint-Majorique-de-Grantham,3607932221,saintmajoriquedegrantham
+Saint-Eugène,3607932222,sainteugene
+Saint-Edmond-de-Grantham,3607932223,saintedmonddegrantham
+Saint-Guillaume,3607932224,saintguillaume
+Saint-Bonaventure,3607932225,saintbonaventure
+Saint-Pie-de-Guire,3607932226,saintpiedeguire
+Béthanie,3607932240,bethanie
+Roxton Falls,3607932241,roxtonfalls
+Roxton,3607932242,roxton
+Sainte-Christine,3607932243,saintechristine
+Acton Vale,3607932244,actonvale
+Upton,3607932245,upton
+Saint-Théodore-d'Acton,3607932246,sainttheodoredacton
+Saint-Nazaire-d'Acton,3607932247,saintnazairedacton
+Stoke,3607950472,stoke
+Saint-Claude,3607950473,saintclaude
+Val-Joli,3607950474,valjoli
+Windsor,3607950475,windsor
+Saint-François-Xavier-de-Brompton,3607950476,saintfrancoisxavierdebrompton
+Saint-Denis-de-Brompton,3607950477,saintdenisdebrompton
+Canton de Cleveland,3607950478,cantondecleveland
+Ville de Richmond,3607950479,villederichmond
+Canton de Melbourne,3607950480,cantondemelbourne
+Kingsbury,3607950481,kingsbury
+Ulverton,3607950482,ulverton
+Racine,3607950483,racine
+Maricourt,3607950484,maricourt
+Valcourt (Canton),3607950485,valcourt
+Valcourt (ville),3607950486,valcourt
+Lawrenceville,3607950487,lawrenceville
+Bonsecours,3607950488,bonsecours
+Sainte-Anne-de-la-Rochelle,3607950489,sainteannedelarochelle
+Eastman,3607950490,eastman
+Stukely-Sud,3607950491,stukelysud
+Hatley (Canton),3607953109,hatley
+North Hatley,3607953110,northhatley
+Hatley,3607953111,hatley
+Ayer's Cliff,3607953112,ayerscliff
+Sainte-Catherine-de-Hatley,3607953113,saintecatherinedehatley
+Stanstead (Ville),3607953114,stanstead
+Ogden,3607953115,ogden
+Stanstead (Canton),3607953116,stanstead
+Magog,3607953117,magog
+Orford,3607953118,orford
+Saint-Benoît-du-Lac,3607953119,saintbenoitdulac
+Austin,3607953120,austin
+Potton,3607953121,potton
+Bolton-Est,3607953122,boltonest
+Saint-Étienne-de-Bolton,3607953123,saintetiennedebolton
+Saint-Venant-de-Paquette,3607953155,saintvenantdepaquette
+East Hereford,3607953156,easthereford
+Saint-Herménégilde,3607953157,sainthermenegilde
+Saint-Malo,3607953158,saintmalo
+Sainte-Edwidge-de-Clifton,3607953159,sainteedwidgedeclifton
+Martinville,3607953160,martinville
+Dixville,3607953161,dixville
+Compton,3607953162,compton
+Coaticook,3607953163,coaticook
+Waterville,3607953164,waterville
+Barnston-Ouest,3607953165,barnstonouest
+Stanstead-Est,3607953166,stansteadest
+Weedon,3607953228,weedon
+Lingwick,3607953229,lingwick
+Scotstown,3607953230,scotstown
+Hampden,3607953231,hampden
+Bury,3607953232,bury
+Dudswell,3607953233,dudswell
+East Angus,3607953234,eastangus
+La Patrie,3607953235,lapatrie
+Chartierville,3607953236,chartierville
+Newport,3607953237,newport
+Saint-Isidore-de-Clifton,3607953238,saintisidoredeclifton
+Cookshire-Eaton,3607953239,cookshireeaton
+Westbury,3607953240,westbury
+Ascot Corner,3607953241,ascotcorner
+Ham-Sud,3607997177,hamsud
+Saint-Adrien,3607997178,saintadrien
+Wotton,3607997179,wotton
+Saint-Camille,3607997180,saintcamille
+Saint-Georges-de-Windsor,3607997181,saintgeorgesdewindsor
+Val-des-Sources,3607997182,valdessources
+Danville,3607997183,danville
+Saint-Louis-de-Blandford,3607997254,saintlouisdeblandford
+Maddington Falls,3607997255,maddingtonfalls
+Daveluyville,3607997256,daveluyville
+Saint-Rosaire,3607997258,saintrosaire
+Saint-Norbert-d'Arthabaska,3607997259,saintnorbertdarthabaska
+Victoriaville,3607997260,victoriaville
+Saint-Valère,3607997261,saintvalere
+Saint-Albert,3607997262,saintalbert
+Sainte-Hélène-de-Chester,3607997263,saintehelenedechester
+Saint-Christophe-d'Arthabaska,3607997264,saintchristophedarthabaska
+Warwick,3607997265,warwick
+Sainte-Élizabeth-de-Warwick,3607997266,sainteelizabethdewarwick
+Saint-Samuel,3607997267,saintsamuel
+Sainte-Clotilde-de-Horton,3607997268,sainteclotildedehorton
+Sainte-Séraphine,3607997269,sainteseraphine
+Kingsey Falls,3607997270,kingseyfalls
+Tingwick,3607997271,tingwick
+Chesterville,3607997272,chesterville
+Saint-Rémi-de-Tingwick,3607997273,saintremidetingwick
+Notre-Dame-de-Ham,3607997274,notredamedeham
+Ham-Nord,3607997275,hamnord
+Saints-Martyrs-Canadiens,3607997276,saintsmartyrscanadiens
+Grosses-Roches,3607998289,grossesroches
+Saint-Jean-de-Cherbourg,3607998290,saintjeandecherbourg
+Les Méchins,3607998291,lesmechins
+Sainte-Félicité,3607998292,saintefelicite
+Saint-Adelme,3607998293,saintadelme
+Saint-René-de-Matane,3607998294,saintrenedematane
+Sainte-Paule,3607998295,saintepaule
+Saint-Léandre,3607998296,saintleandre
+Matane,3607998297,matane
+Saint-Ulric,3607998298,saintulric
+Baie-des-Sables,3607998299,baiedessables
+Rivière-Bonjour,3608001955,rivierebonjour
+Saint-Wenceslas,3608042765,saintwenceslas
+Aston-Jonction,3608042766,astonjonction
+Sainte-Eulalie,3608042767,sainteeulalie
+Saint-Léonard-d'Aston,3608042768,saintleonarddaston
+Saint-Célestin (village),3608042769,saintcelestin
+Saint-Célestin (municipalité),3608042770,saintcelestin
+Grand-Saint-Esprit,3608042771,grandsaintesprit
+Sainte-Perpétue,3608042772,sainteperpetue
+Sainte-Monique,3608042773,saintemonique
+Nicolet,3608042774,nicolet
+La Visitation-de-Yamaska,3608042775,lavisitationdeyamaska
+Saint-Zéphirin-de-Courval,3608042776,saintzephirindecourval
+Saint-Elphège,3608042777,saintelphege
+Baie-du-Febvre,3608042778,baiedufebvre
+Pierreville,3608042779,pierreville
+Saint-François-du-Lac,3608042780,saintfrancoisdulac
+Deschaillons-sur-Saint-Laurent,3608042833,deschaillonssursaintlaurent
+Parisville,3608042834,parisville
+Saint-Pierre-les-Becquets,3608042835,saintpierrelesbecquets
+Bécancour,3608042836,becancour
+Sainte-Cécile-de-Lévrard,3608042837,saintececiledelevrard
+Fortierville,3608042838,fortierville
+Sainte-Françoise,3608042839,saintefrancoise
+Sainte-Sophie-de-Lévrard,3608042840,saintesophiedelevrard
+Sainte-Marie-de-Blandford,3608042841,saintemariedeblandford
+Manseau,3608042842,manseau
+Lemieux,3608042843,lemieux
+Saint-Sylvère,3608042844,saintsylvere
+Inverness,3608055268,inverness
+Lyster,3608055269,lyster
+Laurierville,3608055270,laurierville
+Saint-Pierre-Baptiste,3608055271,saintpierrebaptiste
+Saint-Ferdinand,3608055272,saintferdinand
+Sainte-Sophie-d'Halifax,3608055273,saintesophiedhalifax
+Notre-Dame-de-Lourdes,3608055274,notredamedelourdes
+Plessisville,3608055276,plessisville
+Princeville,3608055277,princeville
+Villeroy,3608055278,villeroy
+Sainte-Clotilde-de-Beauce,3608055322,sainteclotildedebeauce
+East Broughton,3608055323,eastbroughton
+Sacré-Coeur-de-Jésus,3608055324,sacrecoeurdejesus
+Saint-Pierre-de-Broughton,3608055325,saintpierredebroughton
+Adstock,3608055326,adstock
+Thetford Mines,3608055327,thetfordmines
+Sainte-Praxède,3608055328,saintepraxede
+Saint-Joseph-de-Coleraine,3608055329,saintjosephdecoleraine
+Disraeli (ville),3608055330,disraeli
+Disraeli (paroisse),3608055331,disraeli
+Beaulac-Garthby,3608055332,beaulacgarthby
+Saint-Jacques-de-Leeds,3608055333,saintjacquesdeleeds
+Kinnear's Mills,3608055334,kinnearsmills
+Saint-Jean-de-Brébeuf,3608055335,saintjeandebrebeuf
+Saint-Adrien-d'Irlande,3608055336,saintadriendirlande
+Irlande,3608055337,irlande
+Saint-Julien,3608055338,saintjulien
+Saint-Jacques-le-Majeur-de-Wolfestown,3608055339,saintjacqueslemajeurdewolfestown
+Saint-Fortunat,3608055340,saintfortunat
+Saint-Robert-Bellarmin,3608064411,saintrobertbellarmin
+Saint-Ludger,3608064412,saintludger
+Audet,3608064413,audet
+Lac-Drolet,3608064414,lacdrolet
+Frontenac,3608064415,frontenac
+Lac-Mégantic,3608064416,lacmegantic
+Sainte-Cécile-de-Whitton,3608064417,saintececiledewhitton
+Saint-Sébastien,3608064418,saintsebastien
+Lambton,3608064420,lambton
+Saint-Augustin-de-Woburn,3608064421,saintaugustindewoburn
+Piopolis,3608064422,piopolis
+Marston,3608064423,marston
+Nantes,3608064424,nantes
+Saint-Romain,3608064425,saintromain
+Stornoway,3608064426,stornoway
+Notre-Dame-des-Bois,3608064427,notredamedesbois
+Val-Racine,3608064428,valracine
+Milan,3608064429,milan
+Stratford,3608064430,stratford
+Saint-Simon-les-Mines,3608089940,saintsimonlesmines
+Notre-Dame-des-Pins,3608089941,notredamedespins
+Saint-Philibert,3608089942,saintphilibert
+Saint-Georges,3608089943,saintgeorges
+Saint-Côme–Linière,3608089944,saintcomeliniere
+Saint-René,3608089945,saintrene
+Lac-Poulin,3608089946,lacpoulin
+Saint-Benoît-Labre,3608089947,saintbenoitlabre
+Saint-Martin,3608089948,saintmartin
+Saint-Théophile,3608089949,sainttheophile
+Saint-Honoré-de-Shenley,3608089950,sainthonoredeshenley
+Saint-Gédéon-de-Beauce,3608089951,saintgedeondebeauce
+Saint-Hilaire-de-Dorset,3608089952,sainthilairededorset
+Saint-Éphrem-de-Beauce,3608089953,saintephremdebeauce
+La Guadeloupe,3608089954,laguadeloupe
+Saint-Odilon-de-Cranbourne,3608090028,saintodilondecranbourne
+Saint-Joseph-de-Beauce,3608090029,saintjosephdebeauce
+Vallée-Jonction,3608090030,valleejonction
+Saint-Joseph-des-Érables,3608090031,saintjosephdeserables
+Beauceville,3608090032,beauceville
+Saint-Alfred,3608090033,saintalfred
+Saint-Victor,3608090034,saintvictor
+Saint-Jules,3608090035,saintjules
+Tring-Jonction,3608090036,tringjonction
+Saint-Frédéric,3608090037,saintfrederic
+Saint-Séverin,3608090038,saintseverin
+Saint-Laurent-de-l'Île-d'Orléans,3608099222,saintlaurentdeliledorleans
+Sainte-Pétronille,3608099223,saintepetronille
+Saint-Pierre-de-l'Île-d'Orléans,3608099224,saintpierredeliledorleans
+Sainte-Famille-de-l'Île-d'Orléans,3608099225,saintefamilledeliledorleans
+Saint-Jean-de-l'Île-d'Orléans,3608099226,saintjeandeliledorleans
+Saint-François-de-l'Île-d'Orléans,3608099227,saintfrancoisdeliledorleans
+Cascades-Malignes,3608103023,cascadesmalignes
+Lac-Lenôtre,3608103024,laclenotre
+Dépôt-Échouani,3608103025,depotechouani
+Lac-Moselle,3608103026,lacmoselle
+Lac-Nilgaut,3608106705,lacnilgaut
+Lac-Pythonga,3608106706,lacpythonga
+Lac-Despinassy,3608107216,lacdespinassy
+Saint-Antoine-de-Tilly,3608110655,saintantoinedetilly
+Sainte-Croix,3608110656,saintecroix
+Notre-Dame-du-Sacré-Coeur-d'Issoudun,3608110657,notredamedusacrecoeurdissoudun
+Saint-Apollinaire,3608110658,saintapollinaire
+Saint-Agapit,3608110659,saintagapit
+Saint-Gilles,3608110660,saintgilles
+Laurier-Station,3608110661,laurierstation
+Saint-Flavien,3608110662,saintflavien
+Dosquet,3608110663,dosquet
+Lotbinière,3608110664,lotbiniere
+Saint-Édouard-de-Lotbinière,3608110665,saintedouarddelotbiniere
+Leclercville,3608110666,leclercville
+Saint-Janvier-de-Joly,3608110667,saintjanvierdejoly
+Val-Alain,3608110668,valalain
+Saint-Narcisse-de-Beaurivage,3608110669,saintnarcissedebeaurivage
+Saint-Patrice-de-Beaurivage,3608110670,saintpatricedebeaurivage
+Sainte-Agathe-de-Lotbinière,3608110671,sainteagathedelotbiniere
+Saint-Sylvestre,3608110672,saintsylvestre
+Saint-Alban,3608114649,saintalban
+Sainte-Christine-d'Auvergne,3608114650,saintechristinedauvergne
+Lac-Sergent,3608114651,lacsergent
+Saint-Raymond,3608114652,saintraymond
+Saint-Léonard-de-Portneuf,3608114653,saintleonarddeportneuf
+Rivière-à-Pierre,3608114654,riviereapierre
+Lac-Lapeyrere,3608114655,laclapeyrere
+Linton,3608114656,linton
+Lac-Blanc,3608114657,lacblanc
+Lac-Croche,3608114658,laccroche
+Lac-Jacques-Cartier,3608114659,lacjacquescartier
+Chibougamau,3608118158,chibougamau
+Saint-André-de-Kamouraska,3608120202,saintandredekamouraska
+Saint-Germain-de-Kamouraska,3608120203,saintgermaindekamouraska
+Kamouraska,3608120204,kamouraska
+Saint-Denis-De La Bouteillerie,3608120205,saintdenisdelabouteillerie
+Rivière-Ouelle,3608120206,riviereouelle
+La Pocatière,3608120207,lapocatiere
+Sainte-Anne-de-la-Pocatière,3608120208,sainteannedelapocatiere
+Saint-Onésime-d'Ixworth,3608120209,saintonesimedixworth
+Petit-Lac-Sainte-Anne,3608120210,petitlacsainteanne
+Saint-André-du-Lac-Saint-Jean,3608134378,saintandredulacsaintjean
+La Trinité-des-Monts,3608138184,latrinitedesmonts
+Esprit-Saint,3608138185,espritsaint
+Lac-Huron,3608138186,lachuron
+Saint-Eugène-de-Ladrière,3608138187,sainteugenedeladriere
+Saint-Valérien,3608138188,saintvalerien
+Saint-Narcisse-de-Rimouski,3608138189,saintnarcissederimouski
+Saint-Anaclet-de-Lessard,3608138190,saintanacletdelessard
+Saint-Marcellin,3608138191,saintmarcellin
+Saint-Fabien,3608138192,saintfabien
+Rimouski,3608138193,rimouski
+Petit-Mécatina,3608145537,petitmecatina
+Lac-Jérôme,3608146388,lacjerome
+Sault-au-Cochon,3608146885,saultaucochon
+Mont-Élie,3608147782,montelie
+Sagard,3608147783,sagard
+Routhierville,3608150455,routhierville
+Saint-Vianney,3608150456,saintvianney
+Saint-Tharcisius,3608150929,sainttharcisius
+Saint-Alexandre-des-Lacs,3608150930,saintalexandredeslacs
+Sainte-Marguerite-Marie,3608150931,saintemargueritemarie
+Causapscal,3608150932,causapscal
+Lac-Casault,3608150933,laccasault
+Ruisseau-des-Mineurs,3608150934,ruisseaudesmineurs
+Coulée-des-Adolphe,3608154702,couleedesadolphe
+Cap-Chat,3608154704,capchat
+Larouche,3608158183,larouche
+Saguenay,3608158186,saguenay
+Saint-Ludger-de-Milot,3608160414,saintludgerdemilot
+La Doré,3608160415,ladore
+Saint-Félicien,3608160416,saintfelicien
+Normandin,3608160417,normandin
+Lac-Ashuapmushuan,3608160418,lacashuapmushuan
+Rivière-Mistassini,3608160420,rivieremistassini
+Lac-Bouchette,3608160578,lacbouchette
+Roberval,3608160826,roberval
+Saint-Prime,3608160827,saintprime
+Rivière-Ojima,3608161442,riviereojima
+Réservoir-Dozois,3608161780,reservoirdozois
+Ville-Marie,3608163999,villemarie
+Sainte-Marguerite,3608164172,saintemarguerite
+Lévis,3608164410,levis
+Sainte-Hedwidge,3608164878,saintehedwidge
+Saint-François-de-Sales,3608164879,saintfrancoisdesales
+Chambord,3608164880,chambord
+Notre-Dame-du-Portage,3608166514,notredameduportage
+Picard,3608166516,picard
+Frampton,3608180107,frampton
+Saints-Anges,3608180108,saintsanges
+Sainte-Marie,3608180109,saintemarie
+Saint-Elzéar,3608180110,saintelzear
+Scott,3608180112,scott
+Sainte-Hénédine,3608180113,saintehenedine
+Saint-Isidore,3608180114,saintisidore
+Saint-Bernard,3608180115,saintbernard
+Saint-Lambert-de-Lauzon,3608180116,saintlambertdelauzon
+Armagh,3608180267,armagh
+Saint-Nérée-de-Bellechasse,3608180268,saintnereedebellechasse
+Saint-Raphaël,3608180269,saintraphael
+La Durantaye,3608180270,ladurantaye
+Saint-Vallier,3608180271,saintvallier
+Saint-Michel-de-Bellechasse,3608180272,saintmicheldebellechasse
+Beaumont,3608180273,beaumont
+Saint-Charles-de-Bellechasse,3608180274,saintcharlesdebellechasse
+Saint-Gervais,3608180275,saintgervais
+Saint-Lazare-de-Bellechasse,3608180276,saintlazaredebellechasse
+Saint-Damien-de-Buckland,3608180277,saintdamiendebuckland
+Saint-Philémon,3608180278,saintphilemon
+Notre-Dame-Auxiliatrice-de-Buckland,3608180279,notredameauxiliatricedebuckland
+Honfleur,3608180280,honfleur
+Saint-Nazaire-de-Dorchester,3608180281,saintnazairededorchester
+Saint-Léon-de-Standon,3608180282,saintleondestandon
+Saint-Malachie,3608180283,saintmalachie
+Sainte-Claire,3608180284,sainteclaire
+Saint-Anselme,3608180285,saintanselme
+Saint-Henri,3608180286,sainthenri
+Berthier-sur-Mer,3608188523,berthiersurmer
+Saint-Antoine-de-l'Isle-aux-Grues,3608188524,saintantoinedelisleauxgrues
+Montmagny,3608188525,montmagny
+Cap-Saint-Ignace,3608188526,capsaintignace
+L'Islet,3608188527,lislet
+Saint-Roch-des-Aulnaies,3608188529,saintrochdesaulnaies
+Saint-Jean-Port-Joli,3608188530,saintjeanportjoli
+Rivière-du-Loup,3608189523,riviereduloup
+Saint-Alexandre-de-Kamouraska,3608189524,saintalexandredekamouraska
+Sainte-Hélène-de-Kamouraska,3608189525,saintehelenedekamouraska
+Saint-Joseph-de-Kamouraska,3608189526,saintjosephdekamouraska
+Tourville,3608189527,tourville
+Notre-Dame-du-Rosaire,3608189528,notredamedurosaire
+Sainte-Euphémie-sur-Rivière-du-Sud,3608189529,sainteeuphemiesurrivieredusud
+Saint-Pierre-de-la-Rivière-du-Sud,3608189530,saintpierredelarivieredusud
+Saint-François-de-la-Rivière-du-Sud,3608189531,saintfrancoisdelarivieredusud
+Saint-Damase-de-l'Islet,3608189532,saintdamasedelislet
+Sainte-Louise,3608189533,saintelouise
+Saint-Aubert,3608189534,saintaubert
+Saint-Cyrille-de-Lessard,3608189535,saintcyrilledelessard
+Saint-Camille-de-Lellis,3608191113,saintcamilledelellis
+Saint-Cyprien,3608191114,saintcyprien
+Saint-Louis-de-Gonzague,3608191115,saintlouisdegonzague
+Sainte-Aurélie,3608191116,sainteaurelie
+Saint-Zacharie,3608191117,saintzacharie
+Saint-Fabien-de-Panet,3608194984,saintfabiendepanet
+Saint-Paul-de-Montminy,3608194985,saintpauldemontminy
+Sainte-Apolline-de-Patton,3608195805,sainteapollinedepatton
+Saint-Marcel,3608195806,saintmarcel
+Lac-Etchemin,3608199036,lacetchemin
+Sainte-Justine,3608199037,saintejustine
+Saint-Luc-de-Bellechasse,3608199038,saintlucdebellechasse
+Sainte-Sabine,3608199039,saintesabine
+Saint-Magloire,3608199040,saintmagloire
+Sainte-Lucie-de-Beauregard,3608201830,sainteluciedebeauregard
+Sainte-Félicité,3608201831,saintefelicite
+Sainte-Perpétue,3608201832,sainteperpetue
+Saint-Prosper,3608201833,saintprosper
+Sainte-Rose-de-Watford,3608201834,sainterosedewatford
+Saint-Benjamin,3608201835,saintbenjamin
+Donnacona,3608205571,donnacona
+Pont-Rouge,3608205572,pontrouge
+Neuville,3608205573,neuville
+Saint-Omer,3608216424,saintomer
+Saint-Pamphile,3608216425,saintpamphile
+Saint-Adalbert,3608216426,saintadalbert
+Lac-Frontière,3608216427,lacfrontiere
+Saint-Just-de-Bretenières,3608216428,saintjustdebretenieres
+Mont-Carmel,3608217847,montcarmel
+Saint-Pacôme,3608217848,saintpacome
+Saint-Gabriel-Lalemant,3608217849,saintgabriellalemant
+Essipit innuat / Innus Essipit,3608218645,innusessipit
+Saint-Philippe-de-Néri,3608223958,saintphilippedeneri
+Saint-Antonin,3608223959,saintantonin
+Saint-Modeste,3608223960,saintmodeste
+Pohénégamook,3608223961,pohenegamook
+Saint-Athanase,3608223962,saintathanase
+Saint-Bruno-de-Kamouraska,3608223963,saintbrunodekamouraska
+Saint-Pascal,3608223964,saintpascal
+Saint-Donat,3608226225,saintdonat
+Sainte-Luce,3608226226,sainteluce
+Cacouna,3608227654,cacouna
+Saint-Arsène,3608227655,saintarsene
+Saint-Épiphane,3608227656,saintepiphane
+Saint-François-Xavier-de-Viger,3608227657,saintfrancoisxavierdeviger
+Saint-Hubert-de-Rivière-du-Loup,3608227658,sainthubertderiviereduloup
+Saint-Honoré-de-Témiscouata,3608228145,sainthonoredetemiscouata
+L'Isle-Verte,3608228146,lisleverte
+Notre-Dame-des-Sept-Douleurs,3608228147,notredamedesseptdouleurs
+Saint-Jean-de-Dieu,3608228418,saintjeandedieu
+Sainte-Rita,3608228419,sainterita
+Sainte-Françoise,3608228421,saintefrancoise
+Notre-Dame-des-Neiges,3608228422,notredamedesneiges
+Saint-Éloi,3608228423,sainteloi
+Saint-Clément,3608228424,saintclement
+Saint-Paul-de-la-Croix,3608228425,saintpauldelacroix
+Trois-Pistoles,3608228426,troispistoles
+Saint-Michel-du-Squatec,3608228985,saintmicheldusquatec
+Saint-Cyprien,3608228986,saintcyprien
+Témiscouata-sur-le-Lac,3608228987,temiscouatasurlelac
+Saint-Elzéar-de-Témiscouata,3608228988,saintelzeardetemiscouata
+Saint-Pierre-de-Lamy,3608228989,saintpierredelamy
+Saint-Louis-du-Ha! Ha!,3608228990,saintlouisduhaha
+Saint-Médard,3608228991,saintmedard
+Saint-Guy,3608228992,saintguy
+Lac-Boisbouscache,3608228993,lacboisbouscache
+Saint-Mathieu-de-Rioux,3608228994,saintmathieuderioux
+Saint-Simon-de-Rimouski,3608228995,saintsimonderimouski
+Métis-sur-Mer,3608232989,metissurmer
+Grand-Métis,3608232990,grandmetis
+Mont-Joli,3608232991,montjoli
+Sainte-Flavie,3608232992,sainteflavie
+Price,3608232993,price
+Saint-Octave-de-Métis,3608234650,saintoctavedemetis
+Saint-Joseph-de-Lepage,3608234651,saintjosephdelepage
+Saint-Damase,3608234681,saintdamase
+Padoue,3608234682,padoue
+Sainte-Angèle-de-Mérici,3608234683,sainteangeledemerici
+Saint-Gabriel-de-Rimouski,3608234684,saintgabrielderimouski
+Biencourt,3608234773,biencourt
+Gaspé,3608237761,gaspe
+Percé,3608237764,perce
+Grande-Vallée,3608237873,grandevallee
+Petite-Vallée,3608237874,petitevallee
+Cloridorme,3608237875,cloridorme
+Rivière-Saint-Jean,3608237876,rivieresaintjean
+Sainte-Madeleine-de-la-Rivière-Madeleine,3608237926,saintemadeleinedelarivieremadeleine
+Rivière-à-Claude,3608240793,riviereaclaude
+Mont-Saint-Pierre,3608240794,montsaintpierre
+Saint-Maxime-du-Mont-Louis,3608240795,saintmaximedumontlouis
+Mont-Albert,3608240888,montalbert
+Sainte-Anne-des-Monts,3608240889,sainteannedesmonts
+La Martre,3608240890,lamartre
+Marsoui,3608240891,marsoui
+Lejeune,3608241002,lejeune
+Murdochville,3608242523,murdochville
+Saint-Juste-du-Lac,3608244469,saintjustedulac
+Auclair,3608244470,auclair
+Dégelis,3608244471,degelis
+Grande-Rivière,3608244714,granderiviere
+Sainte-Thérèse-de-Gaspé,3608244715,saintetheresedegaspe
+Rivière-Bleue,3608244716,rivierebleue
+Saint-Marc-du-Lac-Long,3608244717,saintmarcdulaclong
+Saint-Jean-de-la-Lande,3608244718,saintjeandelalande
+Packington,3608244719,packington
+Saint-Eusèbe,3608244720,sainteusebe
+Sainte-Jeanne-d'Arc,3608262620,saintejeannedarc
+Saint-Moïse,3608262621,saintmoise
+Saint-Noël,3608262622,saintnoel
+Val-Brillant,3608262623,valbrillant
+Sayabec,3608262624,sayabec
+Lac-Matapédia,3608262625,lacmatapedia
+Lac-au-Saumon,3608262627,lacausaumon
+Amqui,3608262628,amqui
+La Rédemption,3608264390,laredemption
+Saint-Cléophas,3608264391,saintcleophas
+Sainte-Florence,3608265747,sainteflorence
+Albertville,3608265748,albertville
+Les Hauteurs,3608268165,leshauteurs
+Rivière-Vaseuse,3608268166,rivierevaseuse
+Saint-Zénon-du-Lac-Humqui,3608268167,saintzenondulachumqui
+Lac-Alfred,3608268168,lacalfred
+Saint-Léon-le-Grand,3608268169,saintleonlegrand
+Sainte-Irène,3608268170,sainteirene
+Saint-Charles-Garnier,3608268275,saintcharlesgarnier
+Port-Daniel-Gascons,3608271756,portdanielgascons
+Paspébiac,3608271757,paspebiac
+New Carlisle,3608271758,newcarlisle
+Bonaventure,3608271759,bonaventure
+Saint-Siméon,3608271760,saintsimeon
+Caplan,3608271761,caplan
+New Richmond,3608271762,newrichmond
+Escuminac,3608271763,escuminac
+Nouvelle,3608271764,nouvelle
+Carleton-sur-Mer,3608271765,carletonsurmer
+Gesgapegiag,3608271766,gesgapegiag
+Maria,3608271767,maria
+Saint-François-d'Assise,3608271768,saintfrancoisdassise
+L'Ascension-de-Patapédia,3608271769,lascensiondepatapedia
+Ruisseau-Ferguson,3608271770,ruisseauferguson
+Rivière-Patapédia-Est,3608271771,rivierepatapediaest
+Lac-des-Eaux-Mortes,3608271772,lacdeseauxmortes
+Lac-à-la-Croix,3608271773,lacalacroix
+Mont-Alexandre,3608271774,montalexandre
+Cascapédia-Saint-Jules,3608271775,cascapediasaintjules
+Chandler,3608271776,chandler
+Pointe-à-la-Croix,3608274884,pointealacroix
+Saint-André-de-Restigouche,3608274885,saintandrederestigouche
+Saint-Alexis-de-Matapédia,3608274886,saintalexisdematapedia
+Matapédia,3608274887,matapedia
+Ristigouche-Partie-Sud-Est,3608274888,ristigouchepartiesudest
+Hope,3608276145,hope
+Hope Town,3608276146,hopetown
+Saint-Godefroi,3608276147,saintgodefroi
+Shigawake,3608276148,shigawake
+Portneuf,3608277021,portneuf
+Saint-Basile,3608277027,saintbasile
+Cap-Santé,3608277031,capsante
+Deschambault-Grondines,3608277335,deschambaultgrondines
+Saint-Prosper-de-Champlain,3608277354,saintprosperdechamplain
+Sainte-Anne-de-la-Pérade,3608277355,sainteannedelaperade
+Saint-Marc-des-Carrières,3608277356,saintmarcdescarrieres
+Saint-Gilbert,3608277357,saintgilbert
+Saint-Casimir,3608279175,saintcasimir
+Saint-Thuribe,3608279176,saintthuribe
+Saint-Ubalde,3608279177,saintubalde
+L'Anse-Saint-Jean,3608279999,lansesaintjean
+Petit-Saguenay,3608280001,petitsaguenay
+Saint-Félix-d'Otis,3608280062,saintfelixdotis
+Rivière-Éternité,3608280063,riviereeternite
+Ferland-et-Boilleau,3608280192,ferlandetboilleau
+Lac-au-Brochet,3608281747,lacaubrochet
+Rivière-aux-Outardes,3608281748,riviereauxoutardes
+Mont-Valin,3608281749,montvalin
+Passes-Dangereuses,3608282142,passesdangereuses
+Caniapiscau,3608282723,caniapiscau
+Rivière-Mouchalagane,3608282724,rivieremouchalagane
+Lac-Walker,3608282725,lacwalker
+Rivière-Nipissis,3608282726,rivierenipissis
+Baie-Obaoca,3608292643,baieobaoca
+Baie-Atibenne,3608292716,baieatibenne
+Lac-du-Taureau,3608292783,lacdutaureau
+Lac-Devenyns,3608293311,lacdevenyns
+Lac-Minaki,3608293394,lacminaki
+Lac-Matawin,3608293523,lacmatawin
+Lac-Santé,3608293607,lacsante
+Lac-des-Dix-Milles,3608293608,lacdesdixmilles
+Lac-Legendre,3608293609,laclegendre
+Saint-Guillaume-Nord,3608293750,saintguillaumenord
+Lac-Wagwabika,3608294675,lacwagwabika
+Lac-Cabasta,3608294694,laccabasta
+Baie-de-la-Bouteille,3608294984,baiedelabouteille
+L'Épiphanie,3608325030,lepiphanie
+Fort-Coulonge,3608353638,fortcoulonge
+Shawville,3608353789,shawville
+Lac-Chicobi,3608359838,lacchicobi
+La Reine,3608362516,lareine
+Saint-Lambert,3608362517,saintlambert
+Normétal,3608362518,normetal
+La Sarre,3608363564,lasarre
+Chazel,3608363565,chazel
+Val-Saint-Gilles,3608363566,valsaintgilles
+Sainte-Hélène-de-Mancebourg,3608363567,saintehelenedemancebourg
+Clermont,3608363568,clermont
+Clerval,3608363569,clerval
+Dupuy,3608363570,dupuy
+Macamic,3608363974,macamic
+Laforce,3608364603,laforce
+Moffet,3608364634,moffet
+Lac-Granet,3608364665,lacgranet
+Laverlochère-Angliers,3608364714,laverlochereangliers
+Rémigny,3608364749,remigny
+Guérin,3608364810,guerin
+Nédélec,3608364828,nedelec
+Lac-Metei,3608365714,lacmetei
+Matchi-Manitou,3608365715,matchimanitou
+Saint-Bruno-de-Guigues,3608366079,saintbrunodeguigues
+Lorrainville,3608366111,lorrainville
+Notre-Dame-du-Nord,3608366112,notredamedunord
+Saint-Eugène-de-Guigues,3608366124,sainteugenedeguigues
+Béarn,3608366269,bearn
+Belleterre,3608366270,belleterre
+Latulipe-et-Gaboury,3608366271,latulipeetgaboury
+Fugèreville,3608366272,fugereville
+Saint-Édouard-de-Fabre,3608367136,saintedouarddefabre
+Laniel,3608367861,laniel
+Kipawa,3608367980,kipawa
+Témiscaming,3608367981,temiscaming
+Duhamel-Ouest,3608368053,duhamelouest
+Les Lacs-du-Témiscamingue,3608368091,leslacsdutemiscamingue
+Opacikoteak Ecitacikewapan / Hunter's Point,3608368359,hunterspoint
+Winneway,3608368498,winneway
+Albanel,3608373768,albanel
+Saint-Eugène-d'Argentenay,3608373997,sainteugenedargentenay
+Girardville,3608373998,girardville
+Notre-Dame-de-Lorette,3608373999,notredamedelorette
+Saint-Stanislas,3608374000,saintstanislas
+Saint-Edmond-les-Plaines,3608374001,saintedmondlesplaines
+Saint-Thomas-Didyme,3608374002,saintthomasdidyme
+Dolbeau-Mistassini,3608374202,dolbeaumistassini
+Sainte-Jeanne-d'Arc,3608374210,saintejeannedarc
+Péribonka,3608374227,peribonka
+Saint-Augustin,3608374228,saintaugustin
+Alma,3608374471,alma
+Labrecque,3608374472,labrecque
+L'Ascension-de-Notre-Seigneur,3608374473,lascensiondenotreseigneur
+Saint-Henri-de-Taillon,3608374474,sainthenridetaillon
+Sainte-Monique,3608374475,saintemonique
+Bégin,3608374506,begin
+Saint-Nazaire,3608374507,saintnazaire
+Lamarche,3608374524,lamarche
+Saint-Gédéon,3608374534,saintgedeon
+Saint-David-de-Falardeau,3608374535,saintdaviddefalardeau
+Saint-Ambroise,3608374537,saintambroise
+Saint-Bruno,3608374596,saintbruno
+Desbiens,3608374628,desbiens
+Métabetchouan–Lac-à-la-Croix,3608374629,metabetchouanlacalacroix
+Hébertville,3608374630,hebertville
+Hébertville-Station,3608374631,hebertvillestation
+Lac-Moncouche,3608376233,lacmoncouche
+Lac-Achouakan,3608376234,lacachouakan
+Belle-Rivière,3608376235,belleriviere
+Saint-Honoré,3608377413,sainthonore
+Saint-Fulgence,3608377420,saintfulgence
+Saint-Charles-de-Bourget,3608378349,saintcharlesdebourget
+Sainte-Rose-du-Nord,3608378421,sainterosedunord
+Lac-Ministuk,3608378458,lacministuk
+Lalemant,3608378465,lalemant
+Mont-Apica,3608379449,montapica
+Notre-Dame-des-Anges,3608381589,notredamedesanges
+Grandes-Piles,3608393955,grandespiles
+Saint-Roch-de-Mékinac,3608393956,saintrochdemekinac
+Saint-Séverin,3608393957,saintseverin
+Hérouxville,3608393958,herouxville
+Lac-aux-Sables,3608394056,lacauxsables
+Saint-Adelphe,3608394057,saintadelphe
+Sainte-Thècle,3608394058,saintethecle
+Trois-Rives,3608394096,troisrives
+Lac-Masketsi,3608394097,lacmasketsi
+Lac-Boulé,3608394424,lacboule
+Rivière-de-la-Savane,3608394425,rivieredelasavane
+Lac-Normand,3608394426,lacnormand
+Lac-Pikauba,3608397614,lacpikauba
+Grosse-Île,3608402196,grosseile
+Les Îles-de-la-Madeleine,3608402197,lesilesdelamadeleine
+Rivière-Nouvelle,3608406163,rivierenouvelle
+Saint-Elzéar,3608408070,saintelzear
+Saint-Alphonse,3608408082,saintalphonse
+Collines-du-Basque,3608408254,collinesdubasque
+Lac-des-Aigles,3608420436,lacdesaigles
+Lac-Vacher,3608449496,lacvacher
+Lac-Juillet,3608449502,lacjuillet
+Senneterre (paroisse),3608450479,senneterre
+Lebel-sur-Quévillon,3608477445,lebelsurquevillon
+Matagami,3608478658,matagami
+Notre-Dame-de-Montauban,3608478961,notredamedemontauban
+Saint-Lambert,3608479338,saintlambert
+Saint-Joseph-de-Sorel,3608480876,saintjosephdesorel
+ᐊᑯᓕᕕᒃ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Akulivik (village),3608490188,akulivik
+ᐙᐱᒫᑯᔥᑐᐃ (ᐅᑌᓈᐤ) / Whapmagoostui (village),3608490438,whapmagoostui
+ᐃᓄᒃᔪᐊᒃ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Inukjuak (terre),3608492856,inukjuak
+ᐃᕗᔨᕕᒃ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Ivujivik (terre),3608492877,ivujivik
+ᑲᖏᖅᓱᐊᓗᔾᔪᐊᖅ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Kangiqsualujjuaq (terre),3608495494,kangiqsualujjuaq
+ᑲᖏᖅᓱᔪᐊᖅ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Kangiqsujuaq (village),3608495564,kangiqsujuaq
+ᑲᖏᕐᓱᖅ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Kangirsuk (terre),3608495612,kangirsuk
+ᑰᔾᔪᐊᖅ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Kuujjuaq (terre),3608495694,kuujjuaq
+Rivière-Bonaventure,3608513256,rivierebonaventure
+Baie-d'Hudson,3608514211,baiedhudson
+ᓴᓪᓗᐃᑦ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Salluit (terre),3608516272,salluit
+Chapais,3608744517,chapais
+Rivière-Koksoak,3608792922,rivierekoksoak
+West Carleton,3609245427,westcarleton
+ᑲᖏᖅᓱᐊᓗᔾᔪᐊᖅ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Kangiqsualujjuaq (village),3609388091,kangiqsualujjuaq
+ᑰᔾᔪᐊᖅ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Kuujjuaq (village),3609388295,kuujjuaq
+ᑕᓯᐅᔭᖅ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Tasiujaq (terre),3609388430,tasiujaq
+ᑕᓯᐅᔭᖅ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Tasiujaq (village),3609388431,tasiujaq
+ᐊᐅᐸᓗᒃ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Aupaluk (terre),3609388600,aupaluk
+ᐊᐅᐸᓗᒃ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Aupaluk (village),3609388601,aupaluk
+ᑲᖏᕐᓱᖅ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Kangirsuk (village),3609388634,kangirsuk
+ᖁᐊᖅᑕᖅ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Quaqtaq (village),3609388684,quaqtaq
+ᖁᐊᖅᑕᖅ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Quaqtaq (terre),3609388808,quaqtaq
+ᑲᖏᖅᓱᔪᐊᖅ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Kangiqsujuaq (terre),3609388839,kangiqsujuaq
+ᓴᓪᓗᐃᑦ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Salluit (village),3609389056,salluit
+ᐃᕗᔨᕕᒃ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Ivujivik (village),3609389089,ivujivik
+ᐊᑯᓕᕕᒃ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Akulivik (terre),3609390576,akulivik
+ᐳᕕᕐᓂᑐᖅ Puvirnituq,3609390593,puvirnituq
+ᐃᓄᒃᔪᐊᒃ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Inukjuak (village),3609390720,inukjuak
+ᐙᐱᒫᑯᔥᑐᐃ (ᐊᔅᒌ) / Whapmagoostui (terre),3609391148,whapmagoostui
+ᑰᔾᔪᐊᕌᐱᒃ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Kuujjuarapik (village),3609391149,kuujjuarapik
+ᑰᔾᔪᐊᕌᐱᒃ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Kuujjuarapik (terre),3609391150,kuujjuarapik
+ᐅᒥᐅᔭᖅ (ᐊᕕᒃᑐᖅᓯᒪᓂᖓ) / Umiujaq (terre),3609391174,umiujaq
+ᐅᒥᐅᔭᖅ (ᒐᕙᒪᖃᕐᕕᐅᔪᖅ) / Umiujaq (village),3609391175,umiujaq
+Akwesasne 15,3612295866,akwesasne
+ᑲᐛᐛᒋᑲᒪᒡ (ᐅᑌᓈᐤ) / Kawawachikamach (village),3612873747,kawawachikamach
+ᐐᒥᓂᒌ (ᐅᑌᓈᐤ) / Wemindji (village),3612893850,wemindji
+ᐐᒥᓂᒌ (ᐊᔅᒌ) / Wemindji (terre),3612893851,wemindji
+ᐄᔅᒣᐃᓐ (ᐅᑌᓈᐤ) / Eastmain (village),3612893894,eastmain
+ᐄᔅᒣᐃᓐ (ᐊᔅᒌ) / Eastmain (terre),3612893895,eastmain
+ᒋᓵᓰᐲ (ᐊᔅᒌ) / Chisasibi (terre),3613266133,chisasibi
+Chisasibi (Village),3613266134,chisasibi
+ᐙᔅᑳᐦᐄᑲᓂᔥ (ᐊᔅᒌ) / Waskaganish (terre),3613266168,waskaganish
+ᐙᔅᑳᐦᐄᑲᓂᔥ (ᐅᑌᓈᐤ) / Waskaganish (village),3613266169,waskaganish
+ᐐᒥᓂᒌ (ᐊᔅᒌ) / Waswanipi (terre),3613266175,waswanipi
+ᐙᔂᓂᐲ (ᐅᑌᓈᐤ) / Waswanipi (village),3613266176,waswanipi
+ᐆᒉᐳᑯᒨ (ᐊᔅᒌ) / Oujé-Bougoumou (terre),3613266179,oujebougoumou
+ᒥᔅᑎᓯᓃ (ᐅᑌᓈᐤ) / Mistissini (village),3613266598,mistissini
+ᒥᔅᑎᓯᓃ (ᐊᔅᒌ) / Mistissini (terre),3613267724,mistissini
+ᓀᒥᔅᑳᐤ (ᐅᑌᓈᐤ) / Nemaska (village),3613267976,nemaska
+ᓀᒥᔅᑳᐤ (ᐊᔅᒌ) / Nemaska (terre),3613267977,nemaska
+La Morandière-Rochebaucourt,3616785732,lamorandiererochebaucourt
+Courcelles–Saint-Évariste,3616866124,courcellessaintevariste
+Sainte-Élisabeth-de-Proulx,3618529087,sainteelisabethdeproulx
+Amos,3618741228,amos

@@ -1,2 +1,6 @@
 /venv
 /cache
+/backup
+csvFormatting/__pycache__
+.~lock.combo.ods#
+test.py
